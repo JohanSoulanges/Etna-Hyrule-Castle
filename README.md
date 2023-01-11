@@ -1,2 +1,2 @@
 # Etna_Hyrule_Castle
-RPG a travers le CLI 
+RPG a travers le CLI en Javascript
